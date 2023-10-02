@@ -1,0 +1,8 @@
+.font-1 {
+    font: 400 0.9375rem/1.40625rem 'Lexend Deca', sans-serif;
+}
+
+.font-2 {
+    font: 700 2.1875rem/3.28125 'Big Shoulders Display', cursive;
+    text-transform: uppercase;
+}

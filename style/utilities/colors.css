@@ -1,0 +1,27 @@
+:root {
+    --color-p1: #E38826;
+    --color-p2: #006970;
+    --color-p3: #004241;
+    --color-n1: #ffffff75;
+    --color-n2: #ffffff;
+}
+
+.color-p1 {
+    color: var(--color-p1);
+}
+
+.color-p2 {
+    color: var(--color-p2);
+}
+
+.color-p3 {
+    color: var(--color-p3);
+}
+
+.color-n1 {
+    color: var(--color-n1);
+}
+
+.color-n2 {
+    color: var(--color-n2);
+}
